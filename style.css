@@ -1,0 +1,31 @@
+body {
+    background-color: darksalmon;
+    font-family:'Special Elite', Times, serif;
+}
+.header_div {
+    background-color:darkslateblue;
+    color: firebrick;
+}
+.main_div button {
+    font-family:'Special Elite', Times, serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.header_div p{
+    font-family:'Special Elite', Times, serif;
+    color: goldenrod;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.copy_right_footer{
+    position: fixed;
+    color:orangered;
+    font-size: 18px;
+    background-color: purple;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(224, 72, 26);
+}
